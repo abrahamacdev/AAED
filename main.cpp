@@ -5,10 +5,11 @@
  */
 
 #include "./practica_1/ej4.h"
+#include "./practica_2/analisis_empirico.h"
 
 int main() {
 
-    ejecutar_ej4();
+    analisis_empirico_prac2_ej3();
 
     return 0;
 }
